@@ -30,3 +30,5 @@ Blob (acesso de leitura anônimo somente para blobs)
 
 -Após realizar upload de arquivos, ir no recurso ai search e importar os dados do container
 
+-após importar dados, escrever filtros de consulta ex: search=locations:'Chicago'
+
